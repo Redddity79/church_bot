@@ -1,0 +1,32 @@
+{
+    "1492478566": {
+        "username": "meme123meme123meme",
+        "candles": 1,
+        "parents": {
+            "mother": null,
+            "father": null
+        },
+        "children": [
+            "392700078",
+            "392700078"
+        ]
+    },
+    "612607461": {
+        "username": "sunflower_owner",
+        "candles": 0,
+        "parents": {
+            "mother": null,
+            "father": null
+        },
+        "children": []
+    },
+    "392700078": {
+        "username": "skirt_owner",
+        "candles": 0,
+        "parents": {
+            "mother": null,
+            "father": null
+        },
+        "children": []
+    }
+}
